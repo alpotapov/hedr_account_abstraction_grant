@@ -45,7 +45,7 @@ The project team consists of three members:
 
 ## Background
 
-Alexander Potapov:
+Alexander Potapov [github.com/alpotapov](https://github.com/alpotapov):
 - 5 years of corporate experience as a full-stack software developer.
 - Winner of ETHGlobal HackFS hackathon and receiver of IPFS dev grant.
 - 25+ hackathons over the span of the last 10 years.
